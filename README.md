@@ -18,4 +18,4 @@ envases retornables (RVM), accionada por un motor DC de imán permanente
 ## Contenido
 
 - `Viberti.TFI.SCI 2024.pdf`: informe del trabajo.
-- `tfi_cinta_transportadora.m`: script de Octave con todas las simulaciones (Secciones 2 a 5).
+- `TFI_cinta_transportadora.m`: script de Octave con todas las simulaciones (Secciones 2 a 5).
